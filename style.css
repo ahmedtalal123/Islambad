@@ -1,0 +1,44 @@
+h1,h2{
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 60px;
+    background-color: rgba(237, 211, 138, 0.3);
+    text-align: center;
+}
+
+#div3{
+    text-align: center;
+    background-color: rgba(237, 211, 138, 0.3);
+}
+
+button{
+    display: block;
+   text-align: center;
+   padding: auto;
+   margin: auto;
+}
+
+header{
+    background-image: url(https://du1frgvkr39c.cloudfront.net/sites/5adf778b6eabcc00190b75b1/content_entry5b155bed5711a8176e9f9783/5bee3e79b3b02907dd5d7ab5/files/pakistan-islamabad-travel-photo-20181115093501970-main-image.jpg);
+     background-repeat: no-repeat;
+     padding: 200px;
+}
+
+h3{
+    text-align: center;
+    color:white;
+}
+
+footer{
+    display: block;
+    background-color: blue;
+}
+
+#div5{
+    text-align: center;
+    background-color: rgba(237, 211, 138, 0.3);
+}
+
+#p1{
+    text-align: center;
+}   
